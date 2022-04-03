@@ -1,0 +1,43 @@
+[
+    {   "id": 1,
+        "name": "Tousif Umar",
+        "rating": 4.2,
+        "description": "Keep up the excellent work. After using ByCycle Mart my business skyrocketed! Without ByCycle Mart, we would have gone bankrupt by now. Thank You!",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Default-avatar.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Farhan Khalid",
+        "rating": 4.2,
+        "description": "Thank you for making it painless, pleasant and most of all hassle free! It's really wonderful.",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Default-avatar.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Enayet Khan",
+        "rating": 4.2,
+        "description": "This ByCycle Mart works really well. It sympathetically improves my baseball by a lot.",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Default-avatar.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Sandeep Kumar",
+        "rating": 4.2,
+        "description": "I just can't get enough of ByCycle Mart. I want to get a T-Shirt with ByCycle Mart on it so I can show it off to everyone. It really saves me time and effort. ByCycle Mart is exactly what our business has been lacking. You won't regret it.",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Default-avatar.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Rohan Shorif",
+        "rating": 4.2,
+        "description": "Thank you so much for your help. Definitely worth the investment. It's all good.",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Default-avatar.jpg"
+    },
+    {
+        "id": 6,
+        "name": "N Zaman",
+        "rating": 4.2,
+        "description": "My co-worker Skylar has one of these. He says it looks sweaty. this ByCycle Mart is light-hearted.",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Default-avatar.jpg"
+    }
+]
